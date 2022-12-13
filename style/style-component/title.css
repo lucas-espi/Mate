@@ -1,0 +1,19 @@
+#container-title{
+    width: 100%;
+    height: auto;
+}
+.box-title{
+    width: 100%;
+    height: 8rem;
+    background-color: initial;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1rem 2.5rem;
+}
+.box-title h1{
+    margin: 1rem auto;
+}
