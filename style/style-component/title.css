@@ -4,13 +4,16 @@
 }
 .box-title{
     width: 100%;
-    height: 8rem;
+    height: 12rem;
     background-color: initial;
+    background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), #fff url(https://www.shutterstock.com/image-photo/mate-wooden-scoop-on-background-260nw-377686537.jpg) center center/cover no-repeat;    
+    color: #fff;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 
     padding: 1rem 2.5rem;
 }
